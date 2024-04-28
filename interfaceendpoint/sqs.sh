@@ -1,0 +1,1 @@
+aws sqs send-message --queue-url https://sqs.ap-south-1.amazonaws.com/450115505545/vpc-endpoint-interface-demo --message-body "Test message"
